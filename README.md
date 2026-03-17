@@ -1,3 +1,13 @@
+# Java-Grade-Calculator
+This is a Java application created for my Computer Engineering studies at Manisa Celal Bayar University.
+## Features
+- Calculates **GANO (GPA)** using weighted averages.
+- Assigns **Letter Grades**(A,B,C,D,F) based on exam scores.
+- Uses **Multidimensional Arrays** to store and process student data.
+## Technologies 
+- Language: Java.
+- IDE: Developed in Apache NetBeans.
+
 - # Worker Salary & Schedule Simulator
 This Java project simulates a weekly work schedule for employees and calculates their salaries based on hours worked.
 ## Key Features 
