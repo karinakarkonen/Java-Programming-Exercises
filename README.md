@@ -13,3 +13,14 @@ A Java application that validates if every row and column in a 10x10 matrix cont
 ## Learnings
 - Improved algorithmic efficiency by implementing early exit strategies.
 - Mastered 2D array traversal and multi-condition validation.
+
+- # Worker Salary & Schedule Simulator
+This Java project simulates a weekly work schedule for employees and calculates their salaries based on hours worked.
+## Key Features 
+- **Random Data Generation:** Creates random working hours for each day of the week using Math.random().
+- **Salary Calculation:** Computes weekly earnings, including **overtime pay** for hours exceeding 35 hours.
+- **Data Analysis:** Calculate the average working hours for all employees.
+- **Multidimensional Arrays:** Efficiently manages employee data and schedules.
+## Tech Stack
+- **Language:** Java
+- **Logic:** Conditional statements, loops. and multidimensional array processing.
